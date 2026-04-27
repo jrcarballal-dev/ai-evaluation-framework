@@ -28,3 +28,43 @@ Each category is scored from **1 (poor) to 5 (excellent)**.
 
 ## Project Structure
 
+
+ai-evaluation-framework/
+│
+├── data/ → structured dataset
+├── evaluations/ → qualitative analysis
+├── corrections/ → improved responses
+└── guidelines/ → evaluation rules
+
+---
+
+
+---
+
+## Example Workflow
+
+1. Analyze multiple AI-generated responses  
+2. Assign structured scores  
+3. Identify weaknesses  
+4. Select best response  
+5. Rewrite improved version  
+
+---
+
+## Skills Demonstrated
+
+- AI output evaluation  
+- Critical thinking  
+- Data annotation and labeling  
+- Content quality assessment  
+- Error detection and correction  
+
+---
+
+## Author
+
+[Jose Ramon Carballal]  
+IT Student | AI Training | Data Annotation
+
+
+
