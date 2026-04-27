@@ -1,37 +1,30 @@
 # AI Evaluation & Correction Framework
 
+## Overview
+
 This project simulates real-world AI training workflows, including:
 
 - AI response evaluation
-- Error detection
-- Quality scoring
-- Response improvement
+- Structured scoring based on defined criteria
+- Error detection and analysis
+- Response improvement and rewriting
 
-## Evaluation Criteria
+It is designed to demonstrate practical skills required in AI Training, Data Annotation, and Model Evaluation roles.
 
-Responses are evaluated based on:
+---
 
-- Accuracy
-- Clarity
-- Completeness
-- Relevance
+## Methodology
 
-Each response is scored from 1 (poor) to 5 (excellent).
+Each response is evaluated using the following criteria:
+
+- **Accuracy** – Is the information correct?
+- **Clarity** – Is the response easy to understand?
+- **Completeness** – Does it fully answer the question?
+- **Relevance** – Does it stay on topic?
+
+Each category is scored from **1 (poor) to 5 (excellent)**.
+
+---
 
 ## Project Structure
 
-- /data → dataset with AI responses
-- /evaluations → human analysis
-- /corrections → improved responses
-- /guidelines → evaluation criteria
-
-## Skills Demonstrated
-
-- AI output evaluation
-- Critical thinking
-- Data annotation
-- Content improvement
-
-## Purpose
-
-This project demonstrates practical skills relevant to AI Training, Data Annotation, and Model Evaluation roles.
