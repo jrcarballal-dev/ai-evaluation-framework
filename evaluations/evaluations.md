@@ -1,19 +1,44 @@
-# Evaluation Criteria
+# AI Response Evaluations
 
-Responses are evaluated using the following criteria:
+## Example 1
 
-## Accuracy
-Is the information factually correct?
+Question: What is Artificial Intelligence?
 
-## Clarity
-Is the response easy to understand?
+Response A:
+Too vague and lacks detail.
 
-## Completeness
-Does the response fully answer the question?
+Response B:
+Clear, accurate, and complete definition.
 
-## Relevance
-Does the response stay focused on the question?
+Conclusion:
+Response B is significantly better.
 
-Each category is scored from 1 (poor) to 5 (excellent).
+---
 
-Consistency in evaluation is essential.
+## Example 2
+
+Question: What is an API?
+
+Response A:
+Very vague and incomplete.
+
+Response B:
+Provides a clear and accurate explanation.
+
+Conclusion:
+Response B is the correct choice.
+
+---
+
+## Example 3
+
+Question: What is a database?
+
+Response A:
+Correct but too simple.
+
+Response B:
+More detailed and informative.
+
+Conclusion:
+Response B is better due to completeness.
