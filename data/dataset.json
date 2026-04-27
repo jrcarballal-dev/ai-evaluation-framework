@@ -1,0 +1,35 @@
+[
+  {
+    "question": "What is Artificial Intelligence?",
+    "response_a": "AI is technology that does smart things.",
+    "response_b": "Artificial Intelligence is the simulation of human intelligence in machines that are programmed to think and learn.",
+    "scores": {
+      "accuracy": { "A": 2, "B": 5 },
+      "clarity": { "A": 3, "B": 5 },
+      "completeness": { "A": 2, "B": 5 }
+    },
+    "best_response": "B"
+  },
+  {
+    "question": "What is an API?",
+    "response_a": "An API is something used in programming.",
+    "response_b": "An API (Application Programming Interface) allows different software systems to communicate with each other.",
+    "scores": {
+      "accuracy": { "A": 2, "B": 5 },
+      "clarity": { "A": 2, "B": 5 },
+      "completeness": { "A": 1, "B": 5 }
+    },
+    "best_response": "B"
+  },
+  {
+    "question": "What is a database?",
+    "response_a": "A database stores data.",
+    "response_b": "A database is an organized collection of structured information that can be accessed, managed, and updated.",
+    "scores": {
+      "accuracy": { "A": 3, "B": 5 },
+      "clarity": { "A": 3, "B": 5 },
+      "completeness": { "A": 2, "B": 5 }
+    },
+    "best_response": "B"
+  }
+]
